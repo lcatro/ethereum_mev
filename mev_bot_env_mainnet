@@ -1,0 +1,16 @@
+export pk=
+export mevbot=
+export singer_pk=
+
+#  Enable for MEV
+export min_mev_eth_amount=0.005
+export max_mev_eth_amount=0.2
+export min_gas_profit_rate=0.005
+
+#  Enable for Debug
+export debug_in_goerli=0
+export debug_strategy_watch=0
+export debug_strategy_log=0
+export debug_simulate_output=0
+export disable_flashbot_commit=0
+export disable_flashbot_simulate=0

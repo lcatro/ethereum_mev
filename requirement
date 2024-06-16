@@ -1,0 +1,4 @@
+requests
+tqdm
+websocket-client
+web3==5.30.0
